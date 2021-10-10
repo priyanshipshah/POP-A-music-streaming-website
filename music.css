@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    display: flex;
+    
     align-items: center;
 }
 .heading{
@@ -66,10 +66,10 @@ span{
 }
 .container{
     font-family: 'Arima Madurai', cursive;
-    width: 100%;
     background: linear-gradient(to left,#371673,#7c5ee0,#8d2ba2,#4a3dc2,#9899dd,#6769b8,#ac0474);
     background-size: 400% 400%;
     position: relative;
+    width: 100%;
     height: 100%;
     display: flex;
     align-items: center;
